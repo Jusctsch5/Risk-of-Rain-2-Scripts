@@ -1,1 +1,2 @@
-scraplauncher_helper -> autohotkey script to time the Mutli 'swap' special with the cooldown of the scraplauncher, allowing you to shave a portion of a second when reloading
+captain_m1_helper -> Uses OSB to spam M1, toggle with 't'
+multi_railgun_helper -> Uses Retool to reduce railgun cooldown, toggle with 't'
